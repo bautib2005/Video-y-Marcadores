@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Lenguajes de Programación Fundamentales</h1>
+    <a href="https://en.wikipedia.org/wiki/Dennis_Ritchie">Dennis Ritchie,</a> creador del lenguaje C, sento las bases para muchos de los lenguajes de <a href="https://en.wikipedia.org/wiki/Computer_programming">programación</a> modernos. Tres lenguajes fundamentales son:
+    <br>
+    <a href="#CC"><li>C</li></a>
+    <a href="#Python"><li>Python</li></a>
+    <a href="#JScript"><li>JavaScript</li></a>
+        <br><br><br>
+    
+    <h2 id="CC">C</h2>
+    <div>C es un lenguaje de programación de propósito general originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell. Es un lenguaje imperativo de bajo nivel que proporciona acceso directo a la memoria y hardware del sistema.</div><br>
+    
+    <div>Fuente: <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C (Lenguajes de programación)</a></div>
+    <br>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/87SH2Cn0s9A?si=Sz3wvdQoO4IDhCgJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <br><br>
+    <h2 id="Python">Python</h2>
+    <div>Python es un lenguaje de programación interpretado, de alto nivel y de propósito general. Su filosofia de diseño enfatiza la legibilidad del código con el uso de sangría significativa. Sus constructos de lenguaje y su enfoque orientado a objetos tienen como objetivo ayudar a los programadores a escribir código claro y lógico</div>
+    <br>
+    <div>Fuente: <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XKHEtdqhLK8?si=RqrFbCf-aAd_NLOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h2 id="JScript">JavaScript</h2>
+    <div>JavaScript es un lenguaje de programación interpretado, de alto nivel, a menud compilado just-in-time y multiparadigma. Tiene tipado dinámico, orientación a objetos basados en prototipos y funciones de primera clase. Es uno de los tres lenguajes principles de la World Wide Web, junto con HTML y CSS. 
+    </div>
+    <br>
+    <div>Fuente: <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lfmg-EJ8gm4?si=nFxDmu4CzrJrxx27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
